@@ -186,7 +186,7 @@ This project is for **demonstration purposes** only.
 For questions, suggestions, or collaboration, reach out:
 
 **Name:** Arun
-**Email:** developaearunwork@gmail.com
+**Email:** developerarunwork@gmail.com
 
 **GitHub:** https://github.com/abx15
 
